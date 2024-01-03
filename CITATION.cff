@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ltl_data
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Onur Can
+    family-names: Saka
+    email: onurcans@gmail.com
+    affiliation: Koc University
+    orcid: 'https://orcid.org/0000-0003-2800-1665'
+  - given-names: F. Sibel
+    family-names: Salman
+    email: ssalman@ku.edu.tr
+    affiliation: Koc University
+    orcid: 'https://orcid.org/0000-0001-6833-2552'
+date-released: '2024-01-01'
